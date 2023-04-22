@@ -12,3 +12,4 @@ C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsF
 C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
 C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
 C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
