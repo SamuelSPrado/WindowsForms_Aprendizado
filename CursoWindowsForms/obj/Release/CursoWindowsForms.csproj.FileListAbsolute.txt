@@ -1,0 +1,17 @@
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Release\CursoWindowsForms.exe.config
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Release\CursoWindowsForms.exe
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Release\CursoWindowsForms.pdb
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Principal.resources
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Properties.Resources.resources
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.exe
+C:\Users\samuel.prado\Desktop\Repository\cSharp\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.pdb
